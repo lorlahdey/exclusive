@@ -1,6 +1,6 @@
 
 
-import img1 from "@/public/images/products/flash-sales/HAVIT.svg";
+import img1 from "@/public/images/products/flash-sales/havit.svg";
 import img2 from "@/public/images/products/flash-sales/ak-900.svg";
 import chair from "@/public/images/products/flash-sales/chair.svg";
 import monitor from "@/public/images/products/flash-sales/monitor.svg";
